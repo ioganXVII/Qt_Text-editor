@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>Source/Images/copy.png</file>
+        <file>Source/Images/delete.png</file>
+        <file>Source/Images/new.png</file>
+        <file>Source/Images/open.png</file>
+        <file>Source/Images/paste.png</file>
+        <file>Source/Images/save.png</file>
+        <file>Source/Images/cut.png</file>
+        <file>Source/Images/font.png</file>
+        <file>Source/Images/font-style-bold.png</file>
+        <file>Source/Images/font-style-italic.png</file>
+        <file>Source/Images/font-style-underline.png</file>
+    </qresource>
+</RCC>
